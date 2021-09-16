@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biba", "biba\biba.csproj", "{9346AD15-B8B0-4CDA-9403-DD5319EF724F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boba", "boba\boba.csproj", "{288C4095-9E8C-482C-801A-8335D11E1D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9346AD15-B8B0-4CDA-9403-DD5319EF724F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9346AD15-B8B0-4CDA-9403-DD5319EF724F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9346AD15-B8B0-4CDA-9403-DD5319EF724F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9346AD15-B8B0-4CDA-9403-DD5319EF724F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288C4095-9E8C-482C-801A-8335D11E1D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288C4095-9E8C-482C-801A-8335D11E1D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288C4095-9E8C-482C-801A-8335D11E1D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288C4095-9E8C-482C-801A-8335D11E1D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE27A10-6B11-4DE0-B8D1-A71B35D7C2CD}
+	EndGlobalSection
+EndGlobal
